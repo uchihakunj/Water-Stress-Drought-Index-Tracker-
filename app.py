@@ -26,8 +26,8 @@ st.sidebar.title("Data & Controls")
 
 # Auto-load paths (Assume app.py is in 'Streamlit_Dashboard/' and OUTPUTS is parallel)
 base_dir = os.path.dirname(os.path.abspath(__file__))
-default_history_path = os.path.join(base_dir, "..", "OUTPUTS", "drought_water_stress_master_monthly_clean.csv")
-default_forecast_path = os.path.join(base_dir, "..", "OUTPUTS", "drought_risk_forecasts.csv")
+default_history_path = os.path.join(base_dir, "drought_water_stress_master_monthly_clean.csv")
+default_forecast_path = os.path.join(base_dir, "drought_risk_forecasts.csv")
 
 # Initialize session state for data source
 if 'use_sample_data' not in st.session_state:
