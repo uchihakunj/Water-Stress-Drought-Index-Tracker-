@@ -142,8 +142,8 @@ if df is not None:
         st.divider()
 
         # Global Map
-        st.subheader("Global Water Anomalies Tracker: Visualizing gravitational satellite data to identify regional drought severity")
-        st.caption(f"({latest_date.strftime('%B %Y')})")
+        st.subheader("Global Water Anomalies Tracker")
+        st.caption(f"({latest_date.strftime('%B %Y')}) | Visualizing gravitational satellite data to identify regional drought severity")
         
         # Use simple toggle for date
         map_view_date = st.slider("Select Month for Map View", min_value=min_date, max_value=max_date, value=max_date, format="MMM YYYY")
