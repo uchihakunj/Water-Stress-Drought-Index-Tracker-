@@ -1,4 +1,5 @@
 # Global Water Stress & Drought Tracker
+## streamlit Cloud:https://water-stress-drought-index-tracker.streamlit.app/#global-water-anomalies-tracker-july-2025-visualizing-gravitational-satellite-data-to-identify-regional-drought-severity
 
 **Monitor historical water anomalies and predict future drought risks.**
 
