@@ -2,7 +2,7 @@
       
 Project: Global Water Stress & Drought Index Tracker App 
 Author: Thakur Raghwendra Singh Kunjam 
-Date: 
+Date: 17/12/25
 
 --Description-- 
 This dashboard provides an interactive interface to explore the "Water Stress & Drought Index" dataset. It integrates satellite-derived water storage anomalies (NASA GRACE) with baseline water risk scores (WRI Aqueduct) to monitor global drought conditions.
