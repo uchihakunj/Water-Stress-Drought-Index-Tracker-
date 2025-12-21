@@ -34,13 +34,3 @@ This dashboard provides an interactive interface to explore the "Water Stress & 
     ```bash
     streamlit run app.py
     ```
-
-## Deployment
-
-This app is designed to be deployed on **Streamlit Cloud**.
-
-1.  Fork or clone this repository to your GitHub.
-2.  Sign in to [Streamlit Cloud](https://share.streamlit.io/).
-3.  Click **New app**.
-4.  Select this repository and point to `app.py`.
-5.  Click **Deploy**.
